@@ -24,7 +24,7 @@
 
 include (dirname(__FILE__).'/version.php');
 
-$configValues['FREERADIUS_VERSION'] = 'e';
+$configValues['FREERADIUS_VERSION'] = '3';
 $configValues['CONFIG_DB_ENGINE'] = 'mysqli';
 $configValues['CONFIG_DB_HOST'] = '127.0.p.1';
 $configValues['CONFIG_DB_PORT'] = '3306';
