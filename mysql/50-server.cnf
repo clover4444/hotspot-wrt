@@ -16,7 +16,7 @@
 #
 port		= 3306
 # Don't put this on flash memory
-  datadir		= /var/lib/mysql
+  datadir		= /media/data/mysql
 # tmpdir should also not go on flash memory, but needs to exist and have correct rights
   tmpdir		= /tmp
 
