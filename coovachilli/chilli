@@ -9,8 +9,8 @@ option tundev 'wlan0'
 option dhcpif 'br-lan'
 option net 192.168.182.0/24
 option lease 600
-option dns1 8.8.8.8
-option dns2 8.8.4.4
+option dns1 208.67.222.222
+option dns2 208.67.220.220
 option ipup '/etc/chilli/up.sh'
 option ipdown '/etc/chilli/down.sh'
 ######## Radius parameters ########
