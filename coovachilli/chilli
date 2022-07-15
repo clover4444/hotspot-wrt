@@ -5,7 +5,7 @@ config chilli
 option interval 3600
 option swapoctets 1        
 ######## TUN and DHCP Parameters ########
-option tundev 'tun0'
+option tundev 'wlan0'
 option dhcpif 'br-lan'
 option net 192.168.182.0/24
 option lease 600
