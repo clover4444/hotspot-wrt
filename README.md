@@ -1,2 +1,2 @@
 # hotspot-wrt
-Manage hotspot di openwrt dengan doradius freeradius dan coovachilli
+Manage hotspot di openwrt dengan daloradius freeradius dan coovachilli
